@@ -3,4 +3,4 @@
 Probar las capacidades de Github y conectar con Visual Studio Code.
 El programa puede hacer lo siguiente:
 1. Mostrar la mejor página del mundo.
-2. dknfigothtjiopgfpd.
+2. [dknfigothtjiopgfpd.](https://media.tenor.com/cQsDDq0eNzUAAAAM/que-pro.gif)https://media.tenor.com/cQsDDq0eNzUAAAAM/que-pro.gif
